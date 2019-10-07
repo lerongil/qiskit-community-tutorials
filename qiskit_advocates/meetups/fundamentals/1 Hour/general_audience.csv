@@ -1,0 +1,9 @@
+﻿Qiskit workshop,,,
+Time,Topic,Comments,Materials
+0:00 - 0:10,Tour of IBM QX,"Sign on, various views, profile, backend list and device details",IBM Q Experience
+0:10 - 0:30,Create a circuit using Composer,"Tour the gates, illustrate X gate (similarity to classic gate flip), then H and CNOT, cover reversibility of gates, measurements and results. ",Bell state
+0:30 - 0:45,Create a circuit using Notebook,"Open a qiskit tutorial and run through any tutorial that fits the level/interest of attendees, ex: AI, Finance, etc. ",Grovers
+0:45 - 0:60,Questions/Closing remarks,"QnA or maybe specific aqua algorithm, or how to follow up. Q network, etc. ",
+,,,
+,,,
+Take away: ,"Ensure they had enough information to continue on their own. Signed up, and know where everythis is. The turorials and textbook will provide the rest. ",,
